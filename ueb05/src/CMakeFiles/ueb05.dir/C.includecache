@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/debugGL.h
+windows.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+stdio.h
+-
+stdarg.h
+-
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/io.c
+stdlib.h
+-
+stdio.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+io.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/io.h
+types.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/types.h
+logic.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/logic.h
+scene.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/scene.h
+debugGL.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/debugGL.h
+math.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/math.h
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/io.h
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/logic.h
+types.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/types.h
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/scene.c
+windows.h
+-
+OpenGL/gl.h
+-
+GL/glut.h
+-
+time.h
+-
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+scene.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/scene.h
+logic.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/logic.h
+types.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/types.h
+debugGL.h
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/debugGL.h
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/scene.h
+
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/types.h
+windows.h
+-
+OpenGL/gl.h
+-
+GL/gl.h
+-
+

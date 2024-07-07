@@ -1,0 +1,3 @@
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/CMakeFiles/rebuild_cache.dir
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/CMakeFiles/edit_cache.dir
+/media/cgt104277/Samsung SSD/Users/joshu/Studium/WS23/CG2/ueb05/src/CMakeFiles/ueb05.dir
